@@ -1,0 +1,9 @@
+cmd: python src/download_data.py
+deps:
+- md5: 24defa7bdc8b8af45d79cd0556222b84
+  path: src/download_data.py
+md5: 08fd75758c166a8efbc112194c6b3053
+outs:
+- cache: true
+  md5: a269ea06e07424957949abb6172578f8
+  path: data/raw/store47-2016.csv
